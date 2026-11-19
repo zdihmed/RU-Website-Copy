@@ -20,3 +20,10 @@ Password Employee123!
 Admin
 Username admin
 Password Admin123!
+
+To Do:
+Carissa: Event page, 
+Neal: public page, student portal
+Hazzazi: clone repository -> Admin portal () 
+Aisha: (Employee, students) Announcements, Blog, News
+Tsubasa: student portal
